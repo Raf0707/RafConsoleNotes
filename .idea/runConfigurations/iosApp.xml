@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="iosApp" type="KmmRunConfiguration" factoryName="iOS Application" CONFIG_VERSION="1" XCODE_PROJECT="C:\Users\09702\Downloads\RafConsoleNotes\RafConsoleNotes\iosApp\iosApp.xcodeproj">
+    <method v="2">
+      <option name="com.jetbrains.kmm.ios.BuildIOSAppTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
